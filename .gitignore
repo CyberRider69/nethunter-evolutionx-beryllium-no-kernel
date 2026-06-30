@@ -1,0 +1,30 @@
+# Temporary build folders
+workdir/
+output/
+logs/*.log
+
+# Large generated files
+*.zip
+*.tar
+*.tar.xz
+*.img
+*.gz
+*.xz
+
+# Kernel / driver files
+*.ko
+Image
+Image.gz
+Image.gz-dtb
+dtbo.img
+
+# Backups
+*.backup-good
+*.final-good
+*.bak
+*.old
+
+# Android / storage junk
+.DS_Store
+Thumbs.db
+.cache/

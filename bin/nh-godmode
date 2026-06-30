@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+bash menu/main-menu.sh
