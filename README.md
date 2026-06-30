@@ -98,21 +98,3 @@ After patching finishes, the output will be created in:
 Example output:
 kali-nethunter-2026.2-beryllium-evolutionx-NO-KERNEL.zip
 This is the patched ZIP to be flashed via magisk users can test or flash after making backups (most important)
-
----
-
-## 📡 RTL8192EU Driver Package
-
-This release includes an RTL8192EU driver package for users with compatible Realtek RTL8192EU USB WiFi adapters.
-
-The driver is intended to support:
-
-- monitor mode
-- packet capture
-- packet injection testing
-- wireless auditing
-- authorized penetration testing labs
-- external USB WiFi adapter workflows
-
-> Use only on your own networks or environments where you have clear permission to test.
-
