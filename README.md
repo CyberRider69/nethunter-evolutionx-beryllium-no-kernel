@@ -24,7 +24,7 @@ It focuses on:
 |---|---|
 | 📱 Device | Xiaomi POCO F1 |
 | 🔖 Codename | beryllium |
-| 🤖 ROM Target | EvolutionX / Android 14 based setup |
+| 🤖 ROM Target | EvolutionX / Android 15 based setup |
 | 🧰 Workflow | Termux + Recovery |
 | 🎯 Main Purpose | NetHunter support without forced kernel replacement |
 
